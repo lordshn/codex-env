@@ -1,0 +1,193 @@
+{
+  "title": "Workplane \u2014 The approved path into AI work",
+  "design": "Cobalt Grid",
+  "design_id": 15,
+  "slides": 21,
+  "fonts": {
+    "families": [
+      "Sora",
+      "Inter"
+    ],
+    "stylesheets": [
+      "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700",
+      "https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700"
+    ]
+  },
+  "qa": [
+    {
+      "slide": 1,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 543.578125,
+      "footerTop": 663
+    },
+    {
+      "slide": 2,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 564.6875,
+      "footerTop": 663
+    },
+    {
+      "slide": 3,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 535.71875,
+      "footerTop": 663
+    },
+    {
+      "slide": 4,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 610.4375,
+      "footerTop": 663
+    },
+    {
+      "slide": 5,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 467,
+      "footerTop": 663
+    },
+    {
+      "slide": 6,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 547.859375,
+      "footerTop": 663
+    },
+    {
+      "slide": 7,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 479.078125,
+      "footerTop": 663
+    },
+    {
+      "slide": 8,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 548.359375,
+      "footerTop": 663
+    },
+    {
+      "slide": 9,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 548.359375,
+      "footerTop": 663
+    },
+    {
+      "slide": 10,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 532.3125,
+      "footerTop": 663
+    },
+    {
+      "slide": 11,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 509.03125,
+      "footerTop": 663
+    },
+    {
+      "slide": 12,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 589.3125,
+      "footerTop": 663
+    },
+    {
+      "slide": 13,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 538.9375,
+      "footerTop": 663
+    },
+    {
+      "slide": 14,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 547.859375,
+      "footerTop": 663
+    },
+    {
+      "slide": 15,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 547.859375,
+      "footerTop": 663
+    },
+    {
+      "slide": 16,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 545.65625,
+      "footerTop": 663
+    },
+    {
+      "slide": 17,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 498.984375,
+      "footerTop": 663
+    },
+    {
+      "slide": 18,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": null,
+      "footerTop": 663
+    },
+    {
+      "slide": 19,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 595.8125,
+      "footerTop": 663
+    },
+    {
+      "slide": 20,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 626.21875,
+      "footerTop": 663
+    },
+    {
+      "slide": 21,
+      "width": 1280,
+      "height": 720,
+      "overflow": [],
+      "contentBottom": 640.59375,
+      "footerTop": 663
+    }
+  ],
+  "completed_utc": "2026-10-21T17:01:05.809298+00:00",
+  "export_creation_ids": {
+    "pptx": 20454,
+    "pdf": 20455,
+    "png": 20456
+  },
+  "notes": "The same validated HTML was used for all formats. Temporary download/preview links are intentionally omitted. Source HTML was cleaned after export."
+}

@@ -1,0 +1,110 @@
+{
+  "checked_utc": "2026-10-21T16:30:47.456508+00:00",
+  "sources": [
+    {
+      "url": "https://github.com/customer-stories/accenture",
+      "retrieved_from": "https://github.com/customer-stories/accenture",
+      "status": 200,
+      "bytes": 223320,
+      "sha256": "5c2f94b5ecf214d8eecec4b14ad7c5aa66af653c652f721164c152c58e905ae0"
+    },
+    {
+      "url": "https://github.com/dora-team/dora.dev/blob/b14ae080c350ca7ff449889621a970e959203bd5/hugo/content/insights/balancing-ai-tensions/index.md",
+      "retrieved_from": "https://raw.githubusercontent.com/dora-team/dora.dev/b14ae080c350ca7ff449889621a970e959203bd5/hugo/content/insights/balancing-ai-tensions/index.md",
+      "status": 200,
+      "bytes": 19174,
+      "sha256": "0b391dd08d457bac03fe55b309ff3f2bd72fb2c4f55e264ddca3e17af7d515cb"
+    },
+    {
+      "url": "https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/946c9f1441d92caa142091e0678e7dbdac3d38c3/content/handbook/engineering/infrastructure-platforms/developer-experience/ai/_index.md",
+      "retrieved_from": "https://gitlab.com/gitlab-com/content-sites/handbook/-/raw/946c9f1441d92caa142091e0678e7dbdac3d38c3/content/handbook/engineering/infrastructure-platforms/developer-experience/ai/_index.md",
+      "status": 200,
+      "bytes": 13034,
+      "sha256": "796f0c4a289fae1cdacf08e772081405249cb94e0cfcb6c2b1f73a36fe33db3f"
+    },
+    {
+      "url": "https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/5f92de4547bca68f41f5ec784e621f097c1e8b38/content/handbook/engineering/workflow/ai-assisted-development.md",
+      "retrieved_from": "https://gitlab.com/gitlab-com/content-sites/handbook/-/raw/5f92de4547bca68f41f5ec784e621f097c1e8b38/content/handbook/engineering/workflow/ai-assisted-development.md",
+      "status": 200,
+      "bytes": 18268,
+      "sha256": "1cdd34c013b1136f2aca74ceba2e44c6e42e7eff765cbffef4f7774c44a605a2"
+    },
+    {
+      "url": "https://github.com/microsoft/vscode/security/advisories/GHSA-fq62-m6f5-c7h9",
+      "retrieved_from": "https://github.com/microsoft/vscode/security/advisories/GHSA-fq62-m6f5-c7h9",
+      "status": 200,
+      "bytes": 181597,
+      "sha256": "0cfbc006f77f34c1ea2b1af1e1c0cac791977af10b92388b1c21f2afe1585342"
+    },
+    {
+      "url": "https://github.com/microsoft/vscode/security/advisories/GHSA-qghm-w43w-vx8v",
+      "retrieved_from": "https://github.com/microsoft/vscode/security/advisories/GHSA-qghm-w43w-vx8v",
+      "status": 200,
+      "bytes": 180319,
+      "sha256": "97ba316ca5cbc7f06483d42e624c3b2ebcb99d7c41c9ed883ecd7fdafe8cde7c"
+    },
+    {
+      "url": "https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/844ac1c774b21fa1e7b50c2c164e02de82b417d6/content/handbook/engineering/infrastructure-platforms/ai_usage_principles.md",
+      "retrieved_from": "https://gitlab.com/gitlab-com/content-sites/handbook/-/raw/844ac1c774b21fa1e7b50c2c164e02de82b417d6/content/handbook/engineering/infrastructure-platforms/ai_usage_principles.md",
+      "status": 200,
+      "bytes": 2313,
+      "sha256": "aa1027056f50457adeeada739995ef621becd47e3aedb53c79b544ffc671979b"
+    },
+    {
+      "url": "https://github.com/anthropic-experimental/sandbox-runtime/blob/main/README.md",
+      "retrieved_from": "https://raw.githubusercontent.com/anthropic-experimental/sandbox-runtime/main/README.md",
+      "status": 200,
+      "bytes": 156873,
+      "sha256": "abe47f5fdb2e9e68beefe8da95730b735111492a235b70fd131d7da9c4a25748"
+    },
+    {
+      "url": "https://github.com/github/docs/blob/main/content/copilot/responsible-use/agents.md",
+      "retrieved_from": "https://raw.githubusercontent.com/github/docs/main/content/copilot/responsible-use/agents.md",
+      "status": 200,
+      "bytes": 47707,
+      "sha256": "b0a3f6649caf3da62f8c3f3ac93984c5c50a2affe22f2a066526080281fe9884"
+    },
+    {
+      "url": "https://github.com/github/docs/blob/main/content/copilot/how-tos/copilot-on-github/customize-copilot/customize-the-firewall.md",
+      "retrieved_from": "https://raw.githubusercontent.com/github/docs/main/content/copilot/how-tos/copilot-on-github/customize-copilot/customize-the-firewall.md",
+      "status": 200,
+      "bytes": 9304,
+      "sha256": "4494af0a2749e3f899c9010dafec8eac5f7c71b589c20f8f4c43dbc42351e8fa"
+    },
+    {
+      "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/README.md",
+      "retrieved_from": "https://raw.githubusercontent.com/Shopify/Shopify-AI-Toolkit/main/README.md",
+      "status": 200,
+      "bytes": 8812,
+      "sha256": "25d7f650e4175d32c849c8ad389405c16a74aa5860dd27dd3cb78ac88043e24b"
+    },
+    {
+      "url": "https://github.com/dora-team/dora.dev/blob/b14ae080c350ca7ff449889621a970e959203bd5/hugo/content/ai/roi/report/index.md",
+      "retrieved_from": "https://raw.githubusercontent.com/dora-team/dora.dev/b14ae080c350ca7ff449889621a970e959203bd5/hugo/content/ai/roi/report/index.md",
+      "status": 200,
+      "bytes": 1513,
+      "sha256": "115f470ecc4b973e8afaf82f3c60c74c233eaa09bf2a077561c2c94e2b8dbf2d"
+    },
+    {
+      "url": "https://github.com/METR/Measuring-Early-2025-AI-on-Exp-OSS-Devs",
+      "retrieved_from": "https://github.com/METR/Measuring-Early-2025-AI-on-Exp-OSS-Devs",
+      "status": 200,
+      "bytes": 253770,
+      "sha256": "a768b9f57707d09ce4e576a5b5b44213a8513501a088b942d079ed20f181b141"
+    },
+    {
+      "url": "https://github.com/dora-team/dora.dev/blob/b14ae080c350ca7ff449889621a970e959203bd5/svelte/roi-calculator/src/lib/calculations.js",
+      "retrieved_from": "https://raw.githubusercontent.com/dora-team/dora.dev/b14ae080c350ca7ff449889621a970e959203bd5/svelte/roi-calculator/src/lib/calculations.js",
+      "status": 200,
+      "bytes": 4176,
+      "sha256": "bbe28ff41a7d3c72cc086d6ff2c5815ce80ec2aa449d0b79ca535188a50a9ea3"
+    },
+    {
+      "url": "https://github.com/dora-team/dora.dev/blob/b14ae080c350ca7ff449889621a970e959203bd5/hugo/content/research/2025/dora-report/index.md",
+      "retrieved_from": "https://raw.githubusercontent.com/dora-team/dora.dev/b14ae080c350ca7ff449889621a970e959203bd5/hugo/content/research/2025/dora-report/index.md",
+      "status": 200,
+      "bytes": 5305,
+      "sha256": "e9c34951b9292a19907994bb1dde5a63b274004c34a11c4fe9241e4534b041e9"
+    }
+  ]
+}

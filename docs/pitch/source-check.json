@@ -1,0 +1,50 @@
+{
+  "checked": "2026-10-21T16:47:11.458164+00:00",
+  "results": [
+    {
+      "url": "https://github.com/microsoft/vscode/security/advisories/GHSA-fq62-m6f5-c7h9",
+      "status": 200,
+      "bytes": 181598
+    },
+    {
+      "url": "https://github.com/microsoft/vscode/security/advisories/GHSA-qghm-w43w-vx8v",
+      "status": 200,
+      "bytes": 180319
+    },
+    {
+      "url": "https://github.com/dora-team/dora.dev/blob/b14ae080c350ca7ff449889621a970e959203bd5/hugo/content/insights/balancing-ai-tensions/index.md",
+      "status": 200,
+      "bytes": 19174
+    },
+    {
+      "url": "https://github.com/customer-stories/accenture",
+      "status": 200,
+      "bytes": 223319
+    },
+    {
+      "url": "https://github.com/dora-team/dora.dev/blob/b14ae080c350ca7ff449889621a970e959203bd5/hugo/content/ai/roi/report/index.md",
+      "status": 200,
+      "bytes": 1513
+    },
+    {
+      "url": "https://github.com/coder/coder/blob/v2.38.1/docs/ai-coder/ai-governance.md",
+      "status": 200,
+      "bytes": 3605
+    },
+    {
+      "url": "https://github.com/agynio/platform/blob/6a778d39828aaf096dbe2b7f2ea676a48957404b/docs/administer/console-overview.md",
+      "status": 200,
+      "bytes": 3807
+    },
+    {
+      "url": "https://github.com/preloop/preloop/blob/1292a7bf59ff7963f74adcb4989a4339e27512fc/README.md",
+      "status": 200,
+      "bytes": 27875
+    },
+    {
+      "url": "https://github.com/OpenHands/docs/blob/2ae24ad19e64d69ffc54e09e68af3de203cfffa0/enterprise/enterprise-vs-oss.mdx",
+      "status": 200,
+      "bytes": 3612
+    }
+  ]
+}
