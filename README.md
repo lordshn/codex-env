@@ -4,7 +4,7 @@ Product discovery and pitch materials for **Workplane**, a working name for a co
 
 ## Investor pitch
 
-The concept-stage deck contains 18 core slides and three appendix slides. Pricing, market sizing, financing and milestones are explicitly labeled assumptions.
+The concept-stage investor deck has 12 slides focused on the problem, flagship experience, data and action controls, provider choice, business value, subscription model and next milestone. The role/buyer segmentation and competitor comparison slides were removed.
 
 - [PowerPoint](docs/pitch/workplane-pitch-deck.pptx)
 - [PDF](docs/pitch/workplane-pitch-deck.pdf)
@@ -12,7 +12,7 @@ The concept-stage deck contains 18 core slides and three appendix slides. Pricin
 - [Slide content, presenter guidance and references](docs/pitch/pitch-deck-content.md)
 - [Design, fonts and input-layout checks](docs/pitch/production-metadata.json)
 
-The deck was created with Presenton using Cobalt Grid, Sora and Inter. These repository files provide durable copies independent of Presenton's temporary links. The working name is not trademark-cleared; team details and commercial assumptions need validation before investor circulation.
+The deck was created with Presenton using Cobalt Grid, Sora and Inter. These repository files provide durable copies independent of Presenton's temporary links. The working name is not trademark-cleared. Capabilities and the subscription model are proposals requiring customer and technical validation. The deck makes no market-size, revenue, customer or funding-amount claims.
 
 ## AI adoption business case
 

@@ -1,8 +1,8 @@
 {
-  "title": "Workplane \u2014 The approved path into AI work",
+  "title": "Workplane \u2014 AI moves fast. Your company stays in control.",
   "design": "Cobalt Grid",
   "design_id": 15,
-  "slides": 21,
+  "slides": 12,
   "fonts": {
     "families": [
       "Sora",
@@ -19,175 +19,103 @@
       "width": 1280,
       "height": 720,
       "overflow": [],
-      "contentBottom": 543.578125,
-      "footerTop": 663
+      "contentBottom": 482.28125,
+      "footerTop": 674
     },
     {
       "slide": 2,
       "width": 1280,
       "height": 720,
       "overflow": [],
-      "contentBottom": 564.6875,
-      "footerTop": 663
+      "contentBottom": 452.78125,
+      "footerTop": 674
     },
     {
       "slide": 3,
       "width": 1280,
       "height": 720,
       "overflow": [],
-      "contentBottom": 535.71875,
-      "footerTop": 663
+      "contentBottom": 517.96875,
+      "footerTop": 674
     },
     {
       "slide": 4,
       "width": 1280,
       "height": 720,
       "overflow": [],
-      "contentBottom": 610.4375,
-      "footerTop": 663
+      "contentBottom": 484.15625,
+      "footerTop": 674
     },
     {
       "slide": 5,
       "width": 1280,
       "height": 720,
       "overflow": [],
-      "contentBottom": 467,
-      "footerTop": 663
+      "contentBottom": 520.78125,
+      "footerTop": 674
     },
     {
       "slide": 6,
       "width": 1280,
       "height": 720,
       "overflow": [],
-      "contentBottom": 547.859375,
-      "footerTop": 663
+      "contentBottom": 507.65625,
+      "footerTop": 674
     },
     {
       "slide": 7,
       "width": 1280,
       "height": 720,
       "overflow": [],
-      "contentBottom": 479.078125,
-      "footerTop": 663
+      "contentBottom": 524.171875,
+      "footerTop": 674
     },
     {
       "slide": 8,
       "width": 1280,
       "height": 720,
       "overflow": [],
-      "contentBottom": 548.359375,
-      "footerTop": 663
+      "contentBottom": 546.46875,
+      "footerTop": 674
     },
     {
       "slide": 9,
       "width": 1280,
       "height": 720,
       "overflow": [],
-      "contentBottom": 548.359375,
-      "footerTop": 663
+      "contentBottom": 451.375,
+      "footerTop": 674
     },
     {
       "slide": 10,
       "width": 1280,
       "height": 720,
       "overflow": [],
-      "contentBottom": 532.3125,
-      "footerTop": 663
+      "contentBottom": 563.28125,
+      "footerTop": 674
     },
     {
       "slide": 11,
       "width": 1280,
       "height": 720,
       "overflow": [],
-      "contentBottom": 509.03125,
-      "footerTop": 663
+      "contentBottom": 481.96875,
+      "footerTop": 674
     },
     {
       "slide": 12,
       "width": 1280,
       "height": 720,
       "overflow": [],
-      "contentBottom": 589.3125,
-      "footerTop": 663
-    },
-    {
-      "slide": 13,
-      "width": 1280,
-      "height": 720,
-      "overflow": [],
-      "contentBottom": 538.9375,
-      "footerTop": 663
-    },
-    {
-      "slide": 14,
-      "width": 1280,
-      "height": 720,
-      "overflow": [],
-      "contentBottom": 547.859375,
-      "footerTop": 663
-    },
-    {
-      "slide": 15,
-      "width": 1280,
-      "height": 720,
-      "overflow": [],
-      "contentBottom": 547.859375,
-      "footerTop": 663
-    },
-    {
-      "slide": 16,
-      "width": 1280,
-      "height": 720,
-      "overflow": [],
-      "contentBottom": 545.65625,
-      "footerTop": 663
-    },
-    {
-      "slide": 17,
-      "width": 1280,
-      "height": 720,
-      "overflow": [],
-      "contentBottom": 498.984375,
-      "footerTop": 663
-    },
-    {
-      "slide": 18,
-      "width": 1280,
-      "height": 720,
-      "overflow": [],
-      "contentBottom": null,
-      "footerTop": 663
-    },
-    {
-      "slide": 19,
-      "width": 1280,
-      "height": 720,
-      "overflow": [],
-      "contentBottom": 595.8125,
-      "footerTop": 663
-    },
-    {
-      "slide": 20,
-      "width": 1280,
-      "height": 720,
-      "overflow": [],
-      "contentBottom": 626.21875,
-      "footerTop": 663
-    },
-    {
-      "slide": 21,
-      "width": 1280,
-      "height": 720,
-      "overflow": [],
-      "contentBottom": 640.59375,
-      "footerTop": 663
+      "contentBottom": 457.390625,
+      "footerTop": 674
     }
   ],
-  "completed_utc": "2026-10-21T17:01:05.809298+00:00",
+  "completed_utc": "2026-10-21T17:21:47.083450+00:00",
   "export_creation_ids": {
-    "pptx": 20454,
-    "pdf": 20455,
-    "png": 20456
+    "pptx": 20462,
+    "pdf": 20463,
+    "png": 20464
   },
-  "notes": "The same validated HTML was used for all formats. Temporary download/preview links are intentionally omitted. Source HTML was cleaned after export."
+  "notes": "12-slide rebuild. Removed role/buyer and comparison slides; cut detailed feature inventory and speculative financial figures. Same validated HTML used for all exports; temporary source cleaned. Download and preview tokens omitted."
 }
