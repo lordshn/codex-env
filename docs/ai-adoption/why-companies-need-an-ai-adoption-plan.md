@@ -2,8 +2,8 @@
 
 ## An evidence-based business case for governing employee AI use
 
-**Prepared:** October 21, 2026  
-**Audience:** executive leadership, engineering, security, platform engineering, finance and data owners  
+**Prepared:** October 21, 2026<br>
+**Audience:** executive leadership, engineering, security, platform engineering, finance and data owners<br>
 **Purpose:** explain the business and operating risks of unmanaged AI adoption, and the decisions a company needs to make before expanding AI-assisted coding and agentic work.
 
 ## Executive summary

@@ -1,10 +1,10 @@
 # Workplane — investor pitch deck
 
-**Working name:** Workplane (name and trademark availability not checked).  
-**Version:** concept / pre-seed discussion draft, October 21, 2026.  
-**Audience assumption:** early-stage investors; also suitable for a design-partner discussion after removing financing slides.  
-**Format:** 18 core slides + 3 appendix slides, intended for 16:9.  
-**Product status:** discovery and research. Proposed capabilities are not implemented or validated customer outcomes. No customers, revenue, team credentials, partnerships or proprietary technology are claimed.  
+**Working name:** Workplane (name and trademark availability not checked).<br>
+**Version:** concept / pre-seed discussion draft, October 21, 2026.<br>
+**Audience assumption:** early-stage investors; also suitable for a design-partner discussion after removing financing slides.<br>
+**Format:** 18 core slides + 3 appendix slides, intended for 16:9.<br>
+**Product status:** discovery and research. Proposed capabilities are not implemented or validated customer outcomes. No customers, revenue, team credentials, partnerships or proprietary technology are claimed.<br>
 **Narrative:** help a company publish an approved AI work environment and operate it with enforceable boundaries, useful evidence and measurable business outcomes. The product is a coherent application; backing integrations are implementation choices, not the customer proposition.
 
 ---
@@ -51,13 +51,13 @@ Today, those decisions can be scattered across clients, gateways, workspaces and
 
 ### AI now changes files, calls tools and executes commands.
 
-**Permission boundaries are real engineering work.**  
+**Permission boundaries are real engineering work.**<br>
 Microsoft disclosed and patched agent approval and MCP permission vulnerabilities. [R1, R2]
 
-**Faster output still requires verification.**  
+**Faster output still requires verification.**<br>
 Google engineers describe review, checking and integration overhead alongside AI benefits. [R3]
 
-**Large-scale adoption is a program.**  
+**Large-scale adoption is a program.**<br>
 Accenture describes a pilot, controlled comparison and broader rollout on a managed development platform. [R4]
 
 **The opportunity: make governed adoption repeatable.**
@@ -74,16 +74,16 @@ Accenture describes a pilot, controlled comparison and broader rollout on a mana
 
 ### One team owns the employee path into AI work.
 
-**First users**  
+**First users**<br>
 Platform engineers and developers using company-provided cloud development environments.
 
-**Internal champion**  
+**Internal champion**<br>
 Head of Platform / Developer Experience.
 
-**Joint decision makers**  
+**Joint decision makers**<br>
 Engineering leadership and security; budget ownership validated during discovery.
 
-**Initial customer hypothesis**  
+**Initial customer hypothesis**<br>
 Organizations with 500–5,000 engineers, an existing identity provider and cloud/Kubernetes platform, multiple AI services and meaningful data restrictions.
 
 **First deployment: one engineering group, one supported workflow.**
@@ -121,16 +121,16 @@ An approved profile brings together:
 
 ### A single launch-to-revocation experience.
 
-**1. Configure**  
+**1. Configure**<br>
 Connect identity, approved services and an environment template.
 
-**2. Publish**  
+**2. Publish**<br>
 Assign a reviewed work profile to a group or project.
 
-**3. Work**  
+**3. Work**<br>
 Employee starts the environment; supported model and tool operations follow policy.
 
-**4. Operate**  
+**4. Operate**<br>
 Review outcomes and cost, resolve exceptions, revoke access or stop a run.
 
 **Illustrative task:** investigate a service issue and propose a reviewed code change, without receiving production write access.
@@ -147,13 +147,13 @@ Review outcomes and cost, resolve exceptions, revoke access or stop a run.
 
 ### Security is a workflow with explicit enforcement points.
 
-**Before a model request**  
+**Before a model request**<br>
 Check eligible context and destination; apply configured secret/sensitive-data checks; allow, redact, route, block or request review.
 
-**Before a tool action**  
+**Before a tool action**<br>
 Check identity, resource scope, arguments and approval; execute only within the permitted runtime and network boundary.
 
-**After the decision**  
+**After the decision**<br>
 Record minimized evidence tied to the policy, run and outcome.
 
 **No universal detection promise. No silent local-to-external fallback.**
@@ -170,13 +170,13 @@ Record minimized evidence tied to the policy, run and outcome.
 
 ### Choose the service without losing the boundary.
 
-**Internal-only work**  
+**Internal-only work**<br>
 Use qualified internal inference and required internal dependencies.
 
-**Approved external work**  
+**Approved external work**<br>
 Send eligible data only to approved providers under configured rules.
 
-**Hybrid work**  
+**Hybrid work**<br>
 Select permitted services by use case, data class and capability; failover stays within the same policy boundary.
 
 **The same choice applies to memory, retrieval, inspection and decision services—not only the main LLM.**
@@ -193,13 +193,13 @@ Select permitted services by use case, data class and capability; failover stays
 
 ### Make memory, skills and tools company-managed capabilities.
 
-**Memory and knowledge**  
+**Memory and knowledge**<br>
 Define source access, scope, provenance, retention and deletion behavior.
 
-**Skills and MCP tools**  
+**Skills and MCP tools**<br>
 Publish reviewed versions with scoped permissions and clear owners.
 
-**Specialist decision models — expansion**  
+**Specialist decision models — expansion**<br>
 Configure evaluated classification, routing or escalation functions using permitted local or external services.
 
 **Model judgments can inform workflow; they cannot grant authority.**
@@ -237,10 +237,10 @@ Configure evaluated classification, routing or escalation functions using permit
 
 ### Begin where AI adoption meets platform and security ownership.
 
-**Entry segment**  
+**Entry segment**<br>
 Engineering organizations with multiple AI tools, company-managed environments and restrictions on data or actions.
 
-**Illustrative account value**  
+**Illustrative account value**<br>
 $78,000 annual software contract at 200 active users under the proposed pricing model.
 
 **Bottom-up opportunity scenarios — unvalidated**
@@ -288,16 +288,16 @@ $78,000 annual software contract at 200 active users under the proposed pricing 
 
 ### Charge for operating the company’s AI work platform.
 
-**Proposed annual pricing hypothesis**  
+**Proposed annual pricing hypothesis**<br>
 $18,000 platform fee + $25 per monthly active employee per month.
 
-**Example**  
+**Example**<br>
 200 active employees × $25 × 12 + $18,000 = **$78,000 ARR**.
 
-**Customer pays separately**  
+**Customer pays separately**<br>
 Model inference, infrastructure and third-party services; support scope and deployment options defined in contract.
 
-**Proposed entry offer**  
+**Proposed entry offer**<br>
 $10,000, eight-week paid pilot; credit toward the first annual contract upon conversion.
 
 *Illustrative USD pricing, not a quote. Validation needed: procurement fit, support cost, margin and willingness to pay. ARR excludes pilots and pass-through usage.*
@@ -312,16 +312,16 @@ $10,000, eight-week paid pilot; credit toward the first annual contract upon con
 
 ### Sell an adoption outcome before a platform-wide transformation.
 
-**Recruit**  
+**Recruit**<br>
 Three design partners through platform-engineering and security relationships; introductions are a planned activity, not an existing pipeline.
 
-**Pilot**  
+**Pilot**<br>
 One engineering group, 20–50 users, one environment/agent combination and a defined set of tools and data flows.
 
-**Convert**  
+**Convert**<br>
 Annual agreement after agreed value, security and operating criteria pass.
 
-**Expand**  
+**Expand**<br>
 More groups, qualified capabilities and governed workloads within the same company.
 
 **Primary sales evidence:** time to approved work, platform effort and cost per accepted outcome.
@@ -338,13 +338,13 @@ More groups, qualified capabilities and governed workloads within the same compa
 
 ### Validate the core loop, then extend the capability surface.
 
-**Months 0–3 — Design-partner proof**  
+**Months 0–3 — Design-partner proof**<br>
 Confirm buyer and budget; prototype publishing and launching one work profile; establish baselines and threat model.
 
-**Months 4–9 — Qualified pilot product**  
+**Months 4–9 — Qualified pilot product**<br>
 One environment/agent stack; OIDC; approved model connections; defined pre-egress checks; scoped tool access; attribution and revocation tests.
 
-**Months 10–18 — Repeatable deployment**  
+**Months 10–18 — Repeatable deployment**<br>
 Harden reliability and upgrades; qualify a second model path; validate governed memory; improve administration and conversion economics.
 
 **Later expansion:** broader adapters, decision functions and more employee workflows.
@@ -361,16 +361,16 @@ Harden reliability and upgrades; qualify a second model path; validate governed 
 
 ### The potential moat is earned through execution.
 
-**Reusable operating knowledge**  
+**Reusable operating knowledge**<br>
 Qualified adapters, compatibility tests and safe configuration migrations.
 
-**Trusted workflows**  
+**Trusted workflows**<br>
 Evaluated policy behavior, revocation paths and customer-specific acceptance evidence.
 
-**Embedded administration**  
+**Embedded administration**<br>
 Published profiles and lifecycle workflows that remain portable and understandable.
 
-**Key risks to retire**  
+**Key risks to retire**<br>
 Incumbent convergence, support-heavy integrations, imperfect inspection and uncertain willingness to pay.
 
 *No proprietary dataset, patent, network effect or established defensibility is claimed. Customer content is not assumed available for training.*
@@ -385,16 +385,16 @@ Incumbent convergence, support-heavy integrations, imperfect inspection and unce
 
 ### Research supports the problem. It does not establish product-market fit.
 
-**Completed discovery inputs**  
+**Completed discovery inputs**<br>
 Capability inventory; adjacent-product research; company adoption and governance evidence.
 
-**Not yet established**  
+**Not yet established**<br>
 Paying demand, deployment results, validated economics or product security.
 
-**Founding capabilities required**  
+**Founding capabilities required**<br>
 Platform/runtime engineering; enterprise security and identity; developer-product design; technical enterprise sales.
 
-**Team status**  
+**Team status**<br>
 Founder names, credentials, current staffing and hiring commitments have not been provided.
 
 *Replace with a factual team slide before investor circulation. No traction is implied by research activity.*
@@ -409,7 +409,7 @@ Founder names, credentials, current staffing and hiring commitments have not bee
 
 ### Proposed pre-seed ask: $2.0m for an 18-month validation program.
 
-**Illustrative allocation**  
+**Illustrative allocation**<br>
 $1.4m product, engineering and security; $0.3m customer development; $0.3m infrastructure, legal and operating reserve.
 
 **Success criteria to validate**
@@ -455,19 +455,19 @@ $1.4m product, engineering and security; $0.3m customer development; $0.3m infra
 
 ### Primary sources; no invented breach or savings claims.
 
-**R1 — Microsoft:** agent custom-hook approval vulnerability and fix.  
+**R1 — Microsoft:** agent custom-hook approval vulnerability and fix.<br>
 https://github.com/microsoft/vscode/security/advisories/GHSA-fq62-m6f5-c7h9
 
-**R2 — Microsoft:** shared MCP sandbox permission grants and fix.  
+**R2 — Microsoft:** shared MCP sandbox permission grants and fix.<br>
 https://github.com/microsoft/vscode/security/advisories/GHSA-qghm-w43w-vx8v
 
-**R3 — Google / DORA:** qualitative analysis of 1,110 Google engineer responses; verification and integration themes; SEQ measurement.  
+**R3 — Google / DORA:** qualitative analysis of 1,110 Google engineer responses; verification and integration themes; SEQ measurement.<br>
 https://github.com/dora-team/dora.dev/blob/b14ae080c350ca7ff449889621a970e959203bd5/hugo/content/insights/balancing-ai-tensions/index.md
 
-**R4 — GitHub / Accenture:** pilot, controlled comparison and managed development-platform choices; vendor/customer story.  
+**R4 — GitHub / Accenture:** pilot, controlled comparison and managed development-platform choices; vendor/customer story.<br>
 https://github.com/customer-stories/accenture
 
-**R5 — DORA:** AI ROI framework; planning model, not realized company savings.  
+**R5 — DORA:** AI ROI framework; planning model, not realized company savings.<br>
 https://github.com/dora-team/dora.dev/blob/b14ae080c350ca7ff449889621a970e959203bd5/hugo/content/ai/roi/report/index.md
 
 *Sources reviewed October 21, 2026. R1–R2 do not establish exploitation; R3 is qualitative self-report; R4 does not provide universal productivity effect sizes; R5 is a model.*
@@ -480,16 +480,16 @@ https://github.com/dora-team/dora.dev/blob/b14ae080c350ca7ff449889621a970e959203
 
 ### The differentiation and business model remain hypotheses.
 
-**R6 — Coder:** released AI governance documentation; commercial/edition boundaries apply.  
+**R6 — Coder:** released AI governance documentation; commercial/edition boundaries apply.<br>
 https://github.com/coder/coder/blob/v2.38.1/docs/ai-coder/ai-governance.md
 
-**R7 — Agyn:** company management console and adjacent configuration domains.  
+**R7 — Agyn:** company management console and adjacent configuration domains.<br>
 https://github.com/agynio/platform/blob/6a778d39828aaf096dbe2b7f2ea676a48957404b/docs/administer/console-overview.md
 
-**R8 — Preloop:** product scope and edition matrix.  
+**R8 — Preloop:** product scope and edition matrix.<br>
 https://github.com/preloop/preloop/blob/1292a7bf59ff7963f74adcb4989a4339e27512fc/README.md
 
-**R9 — OpenHands:** enterprise versus open-source scope.  
+**R9 — OpenHands:** enterprise versus open-source scope.<br>
 https://github.com/OpenHands/docs/blob/2ae24ad19e64d69ffc54e09e68af3de203cfffa0/enterprise/enterprise-vs-oss.mdx
 
 **Explicit assumptions:** investor audience; working brand; target customer; $78k example annual contract; unvalidated opportunity scenarios; pilot offer; rollout timing; founding-team needs; $2m funding narrative.
